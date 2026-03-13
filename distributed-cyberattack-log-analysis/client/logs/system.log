@@ -1,0 +1,800 @@
+Mar 04 00:31:59 client-node docker[888]: container 5613 started
+Mar 04 01:10:39 client-node sshd[2345]: Received disconnect from 17.184.253.149: 11: Bye Bye
+Mar 04 00:51:28 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:23:11 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:43:25 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:28:49 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:46:19 client-node sshd[2345]: Received disconnect from 246.91.237.133: 11: Bye Bye
+Mar 04 01:42:00 client-node docker[888]: container 8681 started
+Mar 04 01:56:11 client-node docker[888]: container 4314 started
+Mar 04 01:21:02 client-node nginx[777]: signal process started
+Mar 04 02:07:52 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=197.165.208.112 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:37:03 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=249.195.111.253 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:29:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:20:47 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=23.168.59.167 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:26:34 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:34:25 client-node nginx[777]: signal process started
+Mar 04 01:07:27 client-node sshd[2345]: Received disconnect from 71.164.165.163: 11: Bye Bye
+Mar 04 02:02:54 client-node sshd[2345]: Received disconnect from 143.10.114.89: 11: Bye Bye
+Mar 04 01:08:55 client-node docker[888]: container 9829 started
+Mar 04 00:42:08 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:22:27 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:16:59 client-node nginx[777]: signal process started
+Mar 04 00:30:23 client-node sshd[2345]: Received disconnect from 191.31.166.234: 11: Bye Bye
+Mar 04 01:53:31 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=211.192.121.186 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:50:59 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:12:06 client-node nginx[777]: signal process started
+Mar 04 00:46:45 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=27.45.87.6 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:16:29 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:26:42 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:47:40 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:40:17 client-node nginx[777]: signal process started
+Mar 04 01:17:08 client-node sshd[2345]: Received disconnect from 57.127.71.99: 11: Bye Bye
+Mar 04 00:36:31 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:38:12 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=232.229.141.34 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:15:18 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:17:19 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=12.94.113.165 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:25:03 client-node nginx[777]: signal process started
+Mar 04 00:27:16 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:10:43 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=50.119.111.52 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:29:56 client-node sshd[2345]: Received disconnect from 161.131.175.162: 11: Bye Bye
+Mar 04 01:48:42 client-node nginx[777]: signal process started
+Mar 04 01:51:30 client-node docker[888]: container 9683 started
+Mar 04 01:50:32 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:05:35 client-node docker[888]: container 2241 started
+Mar 04 00:48:12 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:36:38 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=236.121.53.62 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:10:59 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:02:27 client-node nginx[777]: signal process started
+Mar 04 01:34:03 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:06:47 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=220.6.60.45 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:27:10 client-node sshd[2345]: Received disconnect from 88.113.198.77: 11: Bye Bye
+Mar 04 01:39:33 client-node docker[888]: container 1855 started
+Mar 04 02:01:56 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=109.238.34.168 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:56:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:09:57 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:12:26 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:46:27 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:55:24 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:44:58 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:54:07 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=123.106.153.166 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:31:29 client-node sshd[2345]: Received disconnect from 240.8.104.28: 11: Bye Bye
+Mar 04 01:40:08 client-node sshd[2345]: Received disconnect from 44.102.255.148: 11: Bye Bye
+Mar 04 00:50:54 client-node nginx[777]: signal process started
+Mar 04 01:12:59 client-node sshd[2345]: Received disconnect from 15.233.114.234: 11: Bye Bye
+Mar 04 02:08:22 client-node docker[888]: container 7365 started
+Mar 04 01:05:40 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:06:36 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:54:13 client-node nginx[777]: signal process started
+Mar 04 00:20:40 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=240.174.1.12 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:40:41 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:14:33 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:01:40 client-node nginx[777]: signal process started
+Mar 04 02:12:34 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:53:01 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:31:22 client-node sshd[2345]: Received disconnect from 34.161.251.194: 11: Bye Bye
+Mar 04 01:16:02 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:09:14 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:42:45 client-node nginx[777]: signal process started
+Mar 04 00:31:53 client-node nginx[777]: signal process started
+Mar 04 01:51:58 client-node nginx[777]: signal process started
+Mar 04 00:18:57 client-node nginx[777]: signal process started
+Mar 04 00:43:49 client-node nginx[777]: signal process started
+Mar 04 00:22:56 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=177.64.15.75 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:49:02 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:00:40 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:37:37 client-node sshd[2345]: Received disconnect from 123.168.18.194: 11: Bye Bye
+Mar 04 00:27:11 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:34:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:11:05 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:39:24 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:12:06 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=33.235.162.78 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:59:12 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:57:44 client-node sshd[2345]: Received disconnect from 75.158.36.94: 11: Bye Bye
+Mar 04 01:10:15 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=75.171.36.176 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:00:12 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:32:31 client-node nginx[777]: signal process started
+Mar 04 01:06:37 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:23:58 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:27:30 client-node nginx[777]: signal process started
+Mar 04 01:59:05 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=174.217.147.9 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:03:28 client-node sshd[2345]: Received disconnect from 205.147.150.89: 11: Bye Bye
+Mar 04 01:56:16 client-node docker[888]: container 3295 started
+Mar 04 01:42:27 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:16:35 client-node docker[888]: container 5420 started
+Mar 04 01:29:11 client-node nginx[777]: signal process started
+Mar 04 01:25:09 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:45:40 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:05:03 client-node sshd[2345]: Received disconnect from 57.106.45.129: 11: Bye Bye
+Mar 04 00:32:47 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:02:07 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:13:02 client-node sshd[2345]: Received disconnect from 18.241.69.85: 11: Bye Bye
+Mar 04 01:47:59 client-node sshd[2345]: Received disconnect from 123.182.37.49: 11: Bye Bye
+Mar 04 01:01:44 client-node nginx[777]: signal process started
+Mar 04 01:47:00 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:09:01 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=120.75.145.211 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:53:55 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:05:56 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:02:52 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:29:41 client-node sshd[2345]: Received disconnect from 229.127.103.184: 11: Bye Bye
+Mar 04 01:11:48 client-node docker[888]: container 2098 started
+Mar 04 01:00:07 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:25:12 client-node nginx[777]: signal process started
+Mar 04 01:02:21 client-node sshd[2345]: Received disconnect from 103.201.40.68: 11: Bye Bye
+Mar 04 02:17:14 client-node sshd[2345]: Received disconnect from 238.232.232.210: 11: Bye Bye
+Mar 04 00:29:02 client-node sshd[2345]: Received disconnect from 82.52.72.236: 11: Bye Bye
+Mar 04 00:51:56 client-node docker[888]: container 6931 started
+Mar 04 00:35:59 client-node sshd[2345]: Received disconnect from 66.89.69.119: 11: Bye Bye
+Mar 04 01:37:40 client-node nginx[777]: signal process started
+Mar 04 00:42:11 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=140.220.142.87 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:35:12 client-node nginx[777]: signal process started
+Mar 04 01:21:31 client-node docker[888]: container 3669 started
+Mar 04 00:40:12 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:04:51 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:12:30 client-node docker[888]: container 1074 started
+Mar 04 01:42:53 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:58:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:14:33 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:16:19 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:00:50 client-node docker[888]: container 1321 started
+Mar 04 01:57:28 client-node sshd[2345]: Received disconnect from 113.233.88.96: 11: Bye Bye
+Mar 04 00:23:53 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:15:29 client-node sshd[2345]: Received disconnect from 48.5.142.56: 11: Bye Bye
+Mar 04 02:12:11 client-node sshd[2345]: Received disconnect from 33.69.236.125: 11: Bye Bye
+Mar 04 00:32:58 client-node docker[888]: container 3757 started
+Mar 04 01:50:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:50:29 client-node sshd[2345]: Received disconnect from 130.81.138.36: 11: Bye Bye
+Mar 04 01:05:13 client-node sshd[2345]: Received disconnect from 210.41.139.7: 11: Bye Bye
+Mar 04 01:02:16 client-node docker[888]: container 7057 started
+Mar 04 00:46:48 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=119.152.225.13 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:40:56 client-node nginx[777]: signal process started
+Mar 04 00:22:26 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:04:37 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:26:26 client-node nginx[777]: signal process started
+Mar 04 01:32:26 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:45:14 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:46:20 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:04:06 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:30:24 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:15:56 client-node nginx[777]: signal process started
+Mar 04 02:03:36 client-node nginx[777]: signal process started
+Mar 04 01:58:40 client-node docker[888]: container 7214 started
+Mar 04 00:51:09 client-node sshd[2345]: Received disconnect from 142.85.84.47: 11: Bye Bye
+Mar 04 00:18:44 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:49:46 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=146.159.92.149 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:00:17 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=125.224.19.163 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:46:30 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:16:16 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:36:50 client-node nginx[777]: signal process started
+Mar 04 01:08:49 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=43.37.131.188 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:57:43 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:43:22 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=179.133.61.215 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:08:45 client-node sshd[2345]: Received disconnect from 48.212.163.174: 11: Bye Bye
+Mar 04 00:33:39 client-node sshd[2345]: Received disconnect from 94.28.90.2: 11: Bye Bye
+Mar 04 01:46:11 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:19:19 client-node sshd[2345]: Received disconnect from 249.210.35.40: 11: Bye Bye
+Mar 04 01:41:00 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:01:50 client-node nginx[777]: signal process started
+Mar 04 00:24:54 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:28:29 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=36.213.173.142 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:13:43 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:11:23 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:17:38 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:53:08 client-node nginx[777]: signal process started
+Mar 04 01:53:33 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:36:29 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:31:10 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:43:25 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:11:22 client-node nginx[777]: signal process started
+Mar 04 01:43:37 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=250.6.50.163 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:55:49 client-node nginx[777]: signal process started
+Mar 04 01:37:31 client-node sshd[2345]: Received disconnect from 220.187.97.89: 11: Bye Bye
+Mar 04 00:20:44 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:32:37 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:17:28 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=206.177.195.45 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:51:13 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:43:08 client-node nginx[777]: signal process started
+Mar 04 01:19:49 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=25.146.162.165 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:43:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:56:53 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:03:25 client-node docker[888]: container 2213 started
+Mar 04 01:19:45 client-node sshd[2345]: Received disconnect from 12.211.209.127: 11: Bye Bye
+Mar 04 02:10:32 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:11:59 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:50:29 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:00:46 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:21:04 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:05:18 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:09:25 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:08:36 client-node docker[888]: container 2141 started
+Mar 04 01:33:36 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:02:02 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:24:37 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:16:08 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:58:11 client-node nginx[777]: signal process started
+Mar 04 00:46:32 client-node docker[888]: container 1693 started
+Mar 04 01:34:38 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:04:37 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=169.220.191.54 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:09:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:23:12 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:49:52 client-node sshd[2345]: Received disconnect from 123.163.0.88: 11: Bye Bye
+Mar 04 00:19:25 client-node sshd[2345]: Received disconnect from 246.98.108.212: 11: Bye Bye
+Mar 04 02:01:31 client-node docker[888]: container 9024 started
+Mar 04 00:32:48 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:24:41 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:41:06 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=70.192.19.79 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:18:51 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:17:06 client-node docker[888]: container 9783 started
+Mar 04 00:29:09 client-node sshd[2345]: Received disconnect from 43.254.169.253: 11: Bye Bye
+Mar 04 02:04:53 client-node docker[888]: container 7043 started
+Mar 04 01:38:28 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:20:55 client-node nginx[777]: signal process started
+Mar 04 00:52:20 client-node nginx[777]: signal process started
+Mar 04 01:23:37 client-node docker[888]: container 8774 started
+Mar 04 00:33:54 client-node nginx[777]: signal process started
+Mar 04 00:21:43 client-node sshd[2345]: Received disconnect from 126.56.213.81: 11: Bye Bye
+Mar 04 01:29:39 client-node docker[888]: container 8199 started
+Mar 04 01:11:31 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=65.167.83.74 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:32:46 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=119.140.168.62 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:52:52 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:35:45 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:05:38 client-node sshd[2345]: Received disconnect from 224.229.68.170: 11: Bye Bye
+Mar 04 00:29:47 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:40:52 client-node docker[888]: container 7244 started
+Mar 04 01:30:24 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:21:01 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=228.43.205.89 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:29:21 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:50:00 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:50:02 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=182.26.212.103 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:06:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:44:51 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=58.223.9.11 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:06:01 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:57:39 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:03:49 client-node docker[888]: container 9183 started
+Mar 04 01:47:59 client-node sshd[2345]: Received disconnect from 125.86.33.148: 11: Bye Bye
+Mar 04 02:08:14 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:30:00 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:42:40 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=93.101.169.121 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:20:19 client-node sshd[2345]: Received disconnect from 63.169.230.225: 11: Bye Bye
+Mar 04 01:23:43 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=240.95.5.14 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:02:15 client-node nginx[777]: signal process started
+Mar 04 01:19:07 client-node sshd[2345]: Received disconnect from 158.6.29.168: 11: Bye Bye
+Mar 04 00:43:05 client-node sshd[2345]: Received disconnect from 165.134.73.58: 11: Bye Bye
+Mar 04 01:06:02 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:52:42 client-node sshd[2345]: Received disconnect from 53.107.89.166: 11: Bye Bye
+Mar 04 00:41:09 client-node nginx[777]: signal process started
+Mar 04 01:27:53 client-node nginx[777]: signal process started
+Mar 04 00:47:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:24:36 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:46:57 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:31:26 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=224.15.227.233 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:07:44 client-node nginx[777]: signal process started
+Mar 04 01:23:08 client-node sshd[2345]: Received disconnect from 88.173.105.253: 11: Bye Bye
+Mar 04 00:57:09 client-node nginx[777]: signal process started
+Mar 04 01:27:29 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:50:13 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=139.23.101.51 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:15:59 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=62.200.108.124 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:20:48 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:56:02 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:33:29 client-node docker[888]: container 8389 started
+Mar 04 01:42:53 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:19:17 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:40:34 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:12:20 client-node sshd[2345]: Received disconnect from 165.66.230.35: 11: Bye Bye
+Mar 04 01:20:52 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=43.94.154.191 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:19:45 client-node sshd[2345]: Received disconnect from 193.250.169.21: 11: Bye Bye
+Mar 04 00:18:02 client-node docker[888]: container 1185 started
+Mar 04 01:36:00 client-node docker[888]: container 8665 started
+Mar 04 02:14:06 client-node docker[888]: container 6815 started
+Mar 04 01:40:19 client-node nginx[777]: signal process started
+Mar 04 02:17:10 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=66.82.74.201 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:58:14 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:57:27 client-node nginx[777]: signal process started
+Mar 04 02:17:27 client-node docker[888]: container 1824 started
+Mar 04 00:57:02 client-node nginx[777]: signal process started
+Mar 04 00:43:27 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=202.66.101.175 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:36:54 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:20:47 client-node docker[888]: container 1325 started
+Mar 04 02:12:00 client-node nginx[777]: signal process started
+Mar 04 00:28:58 client-node sshd[2345]: Received disconnect from 120.3.222.181: 11: Bye Bye
+Mar 04 00:47:57 client-node docker[888]: container 9630 started
+Mar 04 01:23:03 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:18:29 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:14:00 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:03:00 client-node nginx[777]: signal process started
+Mar 04 01:40:26 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:32:32 client-node sshd[2345]: Received disconnect from 32.118.48.71: 11: Bye Bye
+Mar 04 02:16:43 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=69.255.185.199 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:41:37 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:21:29 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=70.241.158.42 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:50:25 client-node nginx[777]: signal process started
+Mar 04 01:37:33 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:52:49 client-node nginx[777]: signal process started
+Mar 04 01:26:02 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=56.171.76.18 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:01:12 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=22.146.46.104 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:33:12 client-node docker[888]: container 7027 started
+Mar 04 01:05:35 client-node sshd[2345]: Received disconnect from 229.207.133.139: 11: Bye Bye
+Mar 04 02:10:30 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=58.69.61.133 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:19:34 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:04:15 client-node docker[888]: container 4796 started
+Mar 04 01:48:39 client-node docker[888]: container 2132 started
+Mar 04 01:13:45 client-node sshd[2345]: Received disconnect from 148.23.217.142: 11: Bye Bye
+Mar 04 00:48:35 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:15:01 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:16:04 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:47:12 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:13:41 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=132.67.236.72 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:19:42 client-node sshd[2345]: Received disconnect from 184.95.239.11: 11: Bye Bye
+Mar 04 01:36:35 client-node sshd[2345]: Received disconnect from 77.142.193.26: 11: Bye Bye
+Mar 04 00:48:04 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:56:42 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:59:29 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=165.32.80.99 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:38:29 client-node nginx[777]: signal process started
+Mar 04 02:00:51 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=37.13.219.242 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:26:59 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=238.74.99.38 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:49:27 client-node docker[888]: container 9886 started
+Mar 04 01:30:38 client-node docker[888]: container 6092 started
+Mar 04 01:10:25 client-node nginx[777]: signal process started
+Mar 04 00:42:08 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:25:36 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:04:35 client-node nginx[777]: signal process started
+Mar 04 02:09:55 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:28:08 client-node docker[888]: container 6293 started
+Mar 04 01:16:14 client-node nginx[777]: signal process started
+Mar 04 01:51:02 client-node sshd[2345]: Received disconnect from 111.114.230.143: 11: Bye Bye
+Mar 04 02:09:59 client-node nginx[777]: signal process started
+Mar 04 00:32:32 client-node docker[888]: container 3145 started
+Mar 04 00:56:04 client-node nginx[777]: signal process started
+Mar 04 00:44:42 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:38:23 client-node nginx[777]: signal process started
+Mar 04 01:59:28 client-node sshd[2345]: Received disconnect from 38.119.213.17: 11: Bye Bye
+Mar 04 01:47:18 client-node nginx[777]: signal process started
+Mar 04 01:23:29 client-node nginx[777]: signal process started
+Mar 04 01:49:20 client-node sshd[2345]: Received disconnect from 49.14.246.79: 11: Bye Bye
+Mar 04 01:54:28 client-node sshd[2345]: Received disconnect from 114.92.142.23: 11: Bye Bye
+Mar 04 02:04:08 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:50:19 client-node nginx[777]: signal process started
+Mar 04 00:54:20 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:03:35 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:47:16 client-node sshd[2345]: Received disconnect from 248.75.176.16: 11: Bye Bye
+Mar 04 01:29:30 client-node nginx[777]: signal process started
+Mar 04 00:25:43 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:00:11 client-node sshd[2345]: Received disconnect from 209.70.96.73: 11: Bye Bye
+Mar 04 00:38:19 client-node sshd[2345]: Received disconnect from 73.180.69.114: 11: Bye Bye
+Mar 04 01:14:46 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=124.246.38.71 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:11:36 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:24:48 client-node docker[888]: container 3157 started
+Mar 04 01:00:11 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:46:50 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:20:03 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=19.186.83.74 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:14:54 client-node sshd[2345]: Received disconnect from 110.6.12.25: 11: Bye Bye
+Mar 04 02:00:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:34:24 client-node nginx[777]: signal process started
+Mar 04 02:03:22 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=174.138.100.24 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:40:45 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=33.250.62.121 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:08:45 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:52:26 client-node docker[888]: container 7926 started
+Mar 04 01:33:21 client-node sshd[2345]: Received disconnect from 112.139.197.163: 11: Bye Bye
+Mar 04 01:45:54 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=82.165.192.148 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:18:15 client-node docker[888]: container 6738 started
+Mar 04 00:48:38 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:33:48 client-node nginx[777]: signal process started
+Mar 04 02:08:10 client-node docker[888]: container 6746 started
+Mar 04 02:02:42 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:30:07 client-node nginx[777]: signal process started
+Mar 04 01:01:13 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:40:25 client-node nginx[777]: signal process started
+Mar 04 00:48:20 client-node docker[888]: container 9411 started
+Mar 04 01:03:15 client-node nginx[777]: signal process started
+Mar 04 00:24:40 client-node docker[888]: container 1099 started
+Mar 04 01:39:06 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:15:39 client-node docker[888]: container 1201 started
+Mar 04 01:09:51 client-node sshd[2345]: Received disconnect from 199.78.200.6: 11: Bye Bye
+Mar 04 01:04:31 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:55:52 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=219.172.54.114 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:53:47 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:32:03 client-node docker[888]: container 5020 started
+Mar 04 02:03:27 client-node nginx[777]: signal process started
+Mar 04 01:20:18 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:25:09 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:30:28 client-node nginx[777]: signal process started
+Mar 04 00:32:13 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=90.180.14.119 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:34:31 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:32:56 client-node docker[888]: container 4955 started
+Mar 04 02:14:31 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:24:48 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=169.55.59.72 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:39:41 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:35:53 client-node sshd[2345]: Received disconnect from 225.143.236.160: 11: Bye Bye
+Mar 04 01:41:21 client-node sshd[2345]: Received disconnect from 224.112.197.235: 11: Bye Bye
+Mar 04 01:10:54 client-node sshd[2345]: Received disconnect from 12.215.57.4: 11: Bye Bye
+Mar 04 00:22:22 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:50:50 client-node docker[888]: container 7127 started
+Mar 04 00:46:27 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:21:01 client-node nginx[777]: signal process started
+Mar 04 00:21:22 client-node nginx[777]: signal process started
+Mar 04 01:41:44 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:56:52 client-node docker[888]: container 4108 started
+Mar 04 02:14:04 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=141.130.107.155 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:35:25 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=244.20.200.181 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:46:34 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:08:51 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:14:15 client-node docker[888]: container 2075 started
+Mar 04 01:34:59 client-node nginx[777]: signal process started
+Mar 04 00:47:15 client-node sshd[2345]: Received disconnect from 29.152.28.66: 11: Bye Bye
+Mar 04 02:17:00 client-node sshd[2345]: Received disconnect from 148.1.45.91: 11: Bye Bye
+Mar 04 00:27:06 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:52:14 client-node sshd[2345]: Received disconnect from 63.189.97.78: 11: Bye Bye
+Mar 04 01:01:20 client-node nginx[777]: signal process started
+Mar 04 01:11:49 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=80.32.226.243 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:58:42 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:03:13 client-node sshd[2345]: Received disconnect from 200.101.95.200: 11: Bye Bye
+Mar 04 01:22:46 client-node nginx[777]: signal process started
+Mar 04 01:52:35 client-node nginx[777]: signal process started
+Mar 04 01:49:35 client-node nginx[777]: signal process started
+Mar 04 02:01:16 client-node nginx[777]: signal process started
+Mar 04 00:26:56 client-node sshd[2345]: Received disconnect from 248.123.160.187: 11: Bye Bye
+Mar 04 00:28:24 client-node nginx[777]: signal process started
+Mar 04 00:55:41 client-node docker[888]: container 6089 started
+Mar 04 02:10:25 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:43:35 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=50.79.206.195 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:36:58 client-node sshd[2345]: Received disconnect from 205.113.82.27: 11: Bye Bye
+Mar 04 01:16:57 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:50:50 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=20.234.114.87 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:27:57 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:56:43 client-node docker[888]: container 3347 started
+Mar 04 00:37:48 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:41:25 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:46:03 client-node sshd[2345]: Received disconnect from 226.112.250.69: 11: Bye Bye
+Mar 04 01:44:52 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:48:11 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:12:34 client-node docker[888]: container 6219 started
+Mar 04 01:13:08 client-node sshd[2345]: Received disconnect from 225.62.238.251: 11: Bye Bye
+Mar 04 00:19:31 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:41:57 client-node sshd[2345]: Received disconnect from 220.104.242.50: 11: Bye Bye
+Mar 04 00:47:35 client-node docker[888]: container 4001 started
+Mar 04 01:21:56 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:05:43 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=41.154.140.140 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:30:25 client-node sshd[2345]: Received disconnect from 228.8.182.39: 11: Bye Bye
+Mar 04 01:31:37 client-node docker[888]: container 1370 started
+Mar 04 00:25:52 client-node docker[888]: container 9452 started
+Mar 04 01:19:55 client-node sshd[2345]: Received disconnect from 49.165.237.51: 11: Bye Bye
+Mar 04 00:46:26 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=55.80.15.245 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:19:20 client-node docker[888]: container 1690 started
+Mar 04 02:14:35 client-node docker[888]: container 5141 started
+Mar 04 02:03:43 client-node docker[888]: container 8539 started
+Mar 04 01:31:41 client-node nginx[777]: signal process started
+Mar 04 01:42:46 client-node nginx[777]: signal process started
+Mar 04 01:09:29 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:54:28 client-node nginx[777]: signal process started
+Mar 04 00:53:03 client-node sshd[2345]: Received disconnect from 238.53.105.45: 11: Bye Bye
+Mar 04 02:16:51 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=212.200.34.91 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:50:58 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:17:17 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:21:10 client-node nginx[777]: signal process started
+Mar 04 00:42:34 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:08:40 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:07:11 client-node sshd[2345]: Received disconnect from 175.19.91.51: 11: Bye Bye
+Mar 04 01:13:20 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=189.157.143.125 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:20:53 client-node nginx[777]: signal process started
+Mar 04 01:56:50 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:45:37 client-node sshd[2345]: Received disconnect from 226.126.36.188: 11: Bye Bye
+Mar 04 00:39:19 client-node nginx[777]: signal process started
+Mar 04 01:27:54 client-node nginx[777]: signal process started
+Mar 04 00:38:49 client-node nginx[777]: signal process started
+Mar 04 01:11:34 client-node sshd[2345]: Received disconnect from 115.42.110.126: 11: Bye Bye
+Mar 04 00:50:48 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:48:13 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=91.22.71.250 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:44:23 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:50:52 client-node nginx[777]: signal process started
+Mar 04 01:31:15 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=115.68.28.148 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:06:35 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:25:39 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:43:29 client-node nginx[777]: signal process started
+Mar 04 02:08:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:46:50 client-node docker[888]: container 3649 started
+Mar 04 01:33:24 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=62.128.239.132 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:09:54 client-node docker[888]: container 4660 started
+Mar 04 00:37:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:32:57 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=144.211.88.2 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:05:59 client-node docker[888]: container 6227 started
+Mar 04 00:26:31 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:42:07 client-node docker[888]: container 9162 started
+Mar 04 02:01:47 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:03:39 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:36:11 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:12:03 client-node sshd[2345]: Received disconnect from 246.52.182.195: 11: Bye Bye
+Mar 04 01:06:02 client-node docker[888]: container 1250 started
+Mar 04 00:51:47 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:55:40 client-node docker[888]: container 1918 started
+Mar 04 01:47:00 client-node sshd[2345]: Received disconnect from 138.198.218.104: 11: Bye Bye
+Mar 04 02:16:42 client-node nginx[777]: signal process started
+Mar 04 01:17:22 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:32:40 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=49.16.97.30 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:08:00 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:42:52 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=235.210.100.95 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:42:58 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:21:28 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:27:27 client-node sshd[2345]: Received disconnect from 34.162.190.160: 11: Bye Bye
+Mar 04 01:42:33 client-node sshd[2345]: Received disconnect from 159.238.251.242: 11: Bye Bye
+Mar 04 01:50:28 client-node nginx[777]: signal process started
+Mar 04 00:20:24 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:39:34 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=209.98.240.191 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:06:29 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:43:00 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:01:06 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:24:05 client-node sshd[2345]: Received disconnect from 64.167.112.131: 11: Bye Bye
+Mar 04 00:43:46 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=234.247.36.177 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:59:00 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:32:33 client-node nginx[777]: signal process started
+Mar 04 00:30:47 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:07:09 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:50:19 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:24:22 client-node docker[888]: container 8003 started
+Mar 04 01:06:32 client-node sshd[2345]: Received disconnect from 43.207.119.243: 11: Bye Bye
+Mar 04 02:05:07 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=191.192.39.129 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:43:19 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=212.110.224.208 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:39:03 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:57:47 client-node docker[888]: container 6450 started
+Mar 04 02:12:03 client-node docker[888]: container 3565 started
+Mar 04 00:43:07 client-node sshd[2345]: Received disconnect from 220.36.34.42: 11: Bye Bye
+Mar 04 02:17:07 client-node nginx[777]: signal process started
+Mar 04 01:52:47 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=30.95.249.119 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:19:52 client-node sshd[2345]: Received disconnect from 96.207.254.133: 11: Bye Bye
+Mar 04 01:44:02 client-node sshd[2345]: Received disconnect from 122.203.223.32: 11: Bye Bye
+Mar 04 00:28:29 client-node nginx[777]: signal process started
+Mar 04 00:59:56 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=98.193.184.116 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:46:47 client-node docker[888]: container 9649 started
+Mar 04 00:42:36 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:05:10 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=139.7.48.246 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:41:37 client-node nginx[777]: signal process started
+Mar 04 01:00:47 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:53:31 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=215.228.55.179 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:13:40 client-node nginx[777]: signal process started
+Mar 04 00:53:40 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:25:05 client-node nginx[777]: signal process started
+Mar 04 00:55:44 client-node docker[888]: container 1920 started
+Mar 04 00:50:00 client-node sshd[2345]: Received disconnect from 218.90.216.82: 11: Bye Bye
+Mar 04 00:38:26 client-node docker[888]: container 3152 started
+Mar 04 01:12:52 client-node docker[888]: container 1548 started
+Mar 04 01:39:19 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:50:15 client-node docker[888]: container 8096 started
+Mar 04 00:31:01 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:29:25 client-node sshd[2345]: Received disconnect from 202.242.151.239: 11: Bye Bye
+Mar 04 00:39:01 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:52:54 client-node docker[888]: container 9043 started
+Mar 04 00:21:07 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:57:06 client-node docker[888]: container 9762 started
+Mar 04 01:07:58 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:46:39 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:22:54 client-node nginx[777]: signal process started
+Mar 04 01:16:31 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:34:29 client-node sshd[2345]: Received disconnect from 49.206.33.125: 11: Bye Bye
+Mar 04 01:51:13 client-node sshd[2345]: Received disconnect from 218.204.76.116: 11: Bye Bye
+Mar 04 00:39:28 client-node nginx[777]: signal process started
+Mar 04 01:11:05 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=20.70.41.28 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:31:23 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:31:49 client-node nginx[777]: signal process started
+Mar 04 01:27:13 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=105.69.60.186 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:56:57 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=42.23.255.235 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:34:41 client-node docker[888]: container 4727 started
+Mar 04 00:34:32 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:10:56 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:16:49 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:10:03 client-node docker[888]: container 6542 started
+Mar 04 02:16:50 client-node sshd[2345]: Received disconnect from 184.146.159.69: 11: Bye Bye
+Mar 04 00:56:42 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:47:51 client-node sshd[2345]: Received disconnect from 118.149.161.28: 11: Bye Bye
+Mar 04 01:14:27 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:15:05 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:41:00 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:10:49 client-node sshd[2345]: Received disconnect from 64.93.45.21: 11: Bye Bye
+Mar 04 01:09:23 client-node sshd[2345]: Received disconnect from 37.211.189.7: 11: Bye Bye
+Mar 04 00:46:49 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:23:43 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=10.147.188.168 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:26:27 client-node docker[888]: container 4870 started
+Mar 04 00:58:51 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:41:40 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:02:50 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:22:32 client-node docker[888]: container 9302 started
+Mar 04 00:42:38 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=26.131.5.182 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:54:50 client-node nginx[777]: signal process started
+Mar 04 00:33:03 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:26:53 client-node docker[888]: container 7130 started
+Mar 04 01:19:37 client-node nginx[777]: signal process started
+Mar 04 00:20:52 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:38:45 client-node sshd[2345]: Received disconnect from 187.240.145.252: 11: Bye Bye
+Mar 04 00:18:52 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:39:22 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:49:41 client-node docker[888]: container 2021 started
+Mar 04 01:19:01 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:13:34 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=91.167.165.112 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:43:57 client-node docker[888]: container 6092 started
+Mar 04 01:22:02 client-node nginx[777]: signal process started
+Mar 04 00:54:13 client-node docker[888]: container 7132 started
+Mar 04 01:28:14 client-node sshd[2345]: Received disconnect from 158.107.102.63: 11: Bye Bye
+Mar 04 01:22:38 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=124.221.184.50 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:10:02 client-node docker[888]: container 5425 started
+Mar 04 01:58:43 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:38:34 client-node sshd[2345]: Received disconnect from 16.71.254.250: 11: Bye Bye
+Mar 04 01:59:15 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=86.0.12.243 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:05:56 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:39:39 client-node sshd[2345]: Received disconnect from 35.242.120.111: 11: Bye Bye
+Mar 04 01:27:01 client-node sshd[2345]: Received disconnect from 96.230.175.39: 11: Bye Bye
+Mar 04 01:07:09 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:46:05 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=187.47.56.189 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:24:24 client-node sshd[2345]: Received disconnect from 53.166.129.162: 11: Bye Bye
+Mar 04 00:35:46 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=197.41.70.29 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:36:15 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:34:16 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=202.242.129.38 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:14:53 client-node sshd[2345]: Received disconnect from 242.23.51.120: 11: Bye Bye
+Mar 04 00:21:04 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:44:22 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:39:53 client-node docker[888]: container 2029 started
+Mar 04 00:52:59 client-node nginx[777]: signal process started
+Mar 04 00:42:38 client-node sshd[2345]: Received disconnect from 107.28.176.80: 11: Bye Bye
+Mar 04 00:42:07 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=160.20.85.102 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:34:30 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:14:09 client-node docker[888]: container 5045 started
+Mar 04 01:02:33 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:36:53 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:05:14 client-node docker[888]: container 5231 started
+Mar 04 02:11:46 client-node docker[888]: container 6567 started
+Mar 04 01:36:15 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:59:37 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:19:33 client-node nginx[777]: signal process started
+Mar 04 01:07:06 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:34:44 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:49:10 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:56:47 client-node docker[888]: container 4951 started
+Mar 04 01:20:30 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:22:44 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:43:18 client-node sshd[2345]: Received disconnect from 77.194.118.61: 11: Bye Bye
+Mar 04 01:23:39 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:42:32 client-node sshd[2345]: Received disconnect from 81.53.61.118: 11: Bye Bye
+Mar 04 02:03:01 client-node docker[888]: container 6324 started
+Mar 04 01:23:11 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:42:03 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:40:11 client-node sshd[2345]: Received disconnect from 37.2.169.90: 11: Bye Bye
+Mar 04 00:41:00 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=208.200.1.157 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:40:51 client-node docker[888]: container 8955 started
+Mar 04 01:32:18 client-node sshd[2345]: Received disconnect from 200.132.109.87: 11: Bye Bye
+Mar 04 01:12:19 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=236.249.232.47 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:27:17 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:50:15 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:38:14 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:25:48 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:47:53 client-node nginx[777]: signal process started
+Mar 04 02:01:00 client-node nginx[777]: signal process started
+Mar 04 01:44:07 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:15:12 client-node sshd[2345]: Received disconnect from 83.3.153.63: 11: Bye Bye
+Mar 04 01:32:27 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=232.145.35.30 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:29:43 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:17:18 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:07:45 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=237.103.18.12 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:20:43 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:34:42 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=139.87.116.57 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:13:22 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:57:51 client-node nginx[777]: signal process started
+Mar 04 00:59:33 client-node sshd[2345]: Received disconnect from 33.147.150.210: 11: Bye Bye
+Mar 04 01:46:14 client-node nginx[777]: signal process started
+Mar 04 01:48:28 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=90.207.25.37 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:49:11 client-node nginx[777]: signal process started
+Mar 04 01:29:28 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:05:54 client-node nginx[777]: signal process started
+Mar 04 01:53:28 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:57:33 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=153.253.148.26 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:27:26 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:16:58 client-node sshd[2345]: Received disconnect from 66.154.168.208: 11: Bye Bye
+Mar 04 00:42:48 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=43.26.105.229 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:39:50 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=25.154.49.31 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:14:31 client-node sshd[2345]: Received disconnect from 171.45.124.227: 11: Bye Bye
+Mar 04 02:13:17 client-node docker[888]: container 4467 started
+Mar 04 01:29:01 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:52:27 client-node nginx[777]: signal process started
+Mar 04 01:24:06 client-node nginx[777]: signal process started
+Mar 04 00:31:06 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:16:53 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=73.3.36.106 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:12:05 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=199.136.13.59 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 02:00:25 client-node nginx[777]: signal process started
+Mar 04 01:33:25 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=121.18.141.63 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:37:49 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=37.155.75.18 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:40:41 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=106.75.129.239 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:26:14 client-node sshd[2345]: Received disconnect from 90.10.35.172: 11: Bye Bye
+Mar 04 02:04:02 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:40:10 client-node sshd[2345]: Received disconnect from 104.253.169.99: 11: Bye Bye
+Mar 04 02:10:21 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=28.117.129.57 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:03:42 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:52:55 client-node sshd[2345]: Received disconnect from 69.68.79.200: 11: Bye Bye
+Mar 04 00:45:54 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:10:18 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:11:49 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:40:15 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:22:26 client-node nginx[777]: signal process started
+Mar 04 00:56:41 client-node sshd[2345]: Received disconnect from 202.20.6.227: 11: Bye Bye
+Mar 04 01:48:16 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 02:16:42 client-node nginx[777]: signal process started
+Mar 04 00:26:21 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:00:40 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:01:50 client-node nginx[777]: signal process started
+Mar 04 00:53:05 client-node sshd[2345]: Received disconnect from 60.2.15.19: 11: Bye Bye
+Mar 04 01:41:45 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=65.93.130.243 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:50:01 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=159.84.70.246 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:48:06 client-node docker[888]: container 5924 started
+Mar 04 01:07:58 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:09:15 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:03:07 client-node sshd[2345]: Received disconnect from 79.9.200.247: 11: Bye Bye
+Mar 04 02:11:59 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:20:45 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=134.77.118.252 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:19:15 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:30:45 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:22:25 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:20:17 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:24:40 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=26.1.168.111 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:36:19 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:10:59 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:48:56 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:10:54 client-node nginx[777]: signal process started
+Mar 04 01:37:11 client-node docker[888]: container 6238 started
+Mar 04 01:42:08 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:35:05 client-node docker[888]: container 3075 started
+Mar 04 02:03:08 client-node nginx[777]: signal process started
+Mar 04 01:38:34 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:29:54 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=16.18.39.192 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:59:24 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:08:13 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:53:39 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=47.2.114.44 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:25:00 client-node docker[888]: container 9559 started
+Mar 04 02:03:15 client-node sshd[2345]: Received disconnect from 229.196.34.123: 11: Bye Bye
+Mar 04 01:56:23 client-node docker[888]: container 3180 started
+Mar 04 01:08:28 client-node nginx[777]: signal process started
+Mar 04 01:19:17 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:53:28 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:56:36 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:36:06 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:46:50 client-node sshd[2345]: Received disconnect from 175.19.214.21: 11: Bye Bye
+Mar 04 00:54:29 client-node docker[888]: container 8183 started
+Mar 04 01:27:18 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:47:48 client-node nginx[777]: signal process started
+Mar 04 00:28:23 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:42:33 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:28:48 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:07:04 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:06:31 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:32:35 client-node docker[888]: container 8025 started
+Mar 04 02:11:15 client-node nginx[777]: signal process started
+Mar 04 00:36:57 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=140.205.133.237 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:40:34 client-node sshd[2345]: Received disconnect from 45.44.155.30: 11: Bye Bye
+Mar 04 00:29:03 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:32:26 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:44:07 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:38:05 client-node sshd[2345]: Received disconnect from 195.184.100.153: 11: Bye Bye
+Mar 04 00:42:15 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=206.166.211.5 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 01:44:21 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 02:13:54 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:41:55 client-node docker[888]: container 2417 started
+Mar 04 00:23:21 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:53:32 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:46:21 client-node nginx[777]: signal process started
+Mar 04 00:48:05 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:09:16 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:10:48 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 00:28:33 client-node docker[888]: container 6148 started
+Mar 04 01:37:14 client-node sudo: user : TTY=pts/0 ; PWD=/home/user ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 04 01:42:19 client-node nginx[777]: signal process started
+Mar 04 02:09:02 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:52:48 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=213.234.97.149 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:18:05 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 00:27:03 client-node nginx[777]: signal process started
+Mar 04 00:44:50 client-node nginx[777]: signal process started
+Mar 04 02:03:10 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:33:46 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 01:46:20 client-node systemd[1]: Started Daily Cleanup Service.
+Mar 04 01:01:07 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 00:53:26 client-node docker[888]: container 6139 started
+Mar 04 01:18:32 client-node nginx[777]: signal process started
+Mar 04 01:54:18 client-node sshd[2345]: Received disconnect from 176.204.136.155: 11: Bye Bye
+Mar 04 01:28:58 client-node sshd[2345]: Received disconnect from 120.102.210.131: 11: Bye Bye
+Mar 04 00:31:38 client-node cron[1234]: (root) CMD (/usr/lib/sa/sa1 1 1)
+Mar 04 02:11:05 client-node kernel: [UFW BLOCK] IN=eth0 OUT= MAC=.. SRC=18.163.159.115 DST=10.0.0.2 PROTO=TCP SPT=443 DPT=22
+Mar 04 00:55:42 client-node docker[888]: container 3325 started
+Mar 04 01:58:50 client-node sshd[2345]: Received disconnect from 55.46.98.40: 11: Bye Bye
